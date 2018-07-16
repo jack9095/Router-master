@@ -6,6 +6,7 @@ package com.alibaba.android.arouter.compiler.utils;
  * @author Alex <a href="mailto:zhilong.liu@aliyun.com">Contact me.</a>
  * @version 1.0
  * @since 16/8/24 20:18
+ * 通用的长量类
  */
 public class Consts {
     // Generate

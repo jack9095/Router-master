@@ -23,5 +23,5 @@ public enum TypeKind {
     // Other type  封装类型
     STRING,
     PARCELABLE,
-    OBJECT;     //使用Json解析
+    OBJECT;     // 使用Json解析
 }

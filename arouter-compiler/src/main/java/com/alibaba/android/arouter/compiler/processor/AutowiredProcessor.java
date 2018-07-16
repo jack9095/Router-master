@@ -75,7 +75,7 @@ public class AutowiredProcessor extends AbstractProcessor {
     public synchronized void init(ProcessingEnvironment processingEnvironment) {
         super.init(processingEnvironment);
 
-        mFiler = processingEnv.getFiler();                  // Generate class.
+        mFiler = processingEnv.getFiler();               // Generate class.
         types = processingEnv.getTypeUtils();            // Get type utils.
         elements = processingEnv.getElementUtils();      // Get class meta.
 
